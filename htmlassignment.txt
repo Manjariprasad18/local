@@ -1,0 +1,8 @@
+1) html is a markup language which helps in designing the web page.
+2) markup language helps in designing the layout of any webpage.
+3) xml and css are other examples of markup language. these are used for making the web page more dynamic and beautiful and interactive.
+4) we use html 5 for our projects. html5 is simple , better with error handing and has multimedia support in comparison to htmml 4.
+5) attributes are properties of any element. like width and heignt etc.
+6) data attributes are good for defining and customizing the data look according to our need.
+7) Async script make browser non blocking and defer script make use of the whloe dom.
+8) NO, i dont know about any exception.
